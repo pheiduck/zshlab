@@ -11,7 +11,7 @@ Needs to be stored in homedirectory, with name convention ".zshrc" for use.
 ## OhMyZsh Support
 
 ### setup zshlab.zsh-theme
-```cd /tmp```\n
+```cd /tmp```<br>
 ```git clone https://github.com/pheiduck/zshlab.git```
 ```cd zshlab/.oh-my-zsh/custom/themes```
 ```cp zshlab.zsh-theme ~/.oh-my-zsh/custom/themes/```
