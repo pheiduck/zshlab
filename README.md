@@ -12,9 +12,9 @@ Needs to be stored in homedirectory, with name convention ".zshrc" for use.
 
 ### setup zshlab.zsh-theme
 ```cd /tmp```<br>
-```git clone https://github.com/pheiduck/zshlab.git```
-```cd zshlab/.oh-my-zsh/custom/themes```
-```cp zshlab.zsh-theme ~/.oh-my-zsh/custom/themes/```
+```git clone https://github.com/pheiduck/zshlab.git```<br>
+```cd zshlab/.oh-my-zsh/custom/themes```<br>
+```cp zshlab.zsh-theme ~/.oh-my-zsh/custom/themes/```<br>
 
 ### config zshrc
 ```vim ~/.zshrc```
