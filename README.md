@@ -20,6 +20,6 @@ Needs to be stored in homedirectory, with name convention ".zshrc" for use.
 ```vim ~/.zshrc```
 ```
 ...
-ZSH_THEME="zshlab.zsh-theme"
+ZSH_THEME="zshlab"
 ...
 ```
