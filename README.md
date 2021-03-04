@@ -8,6 +8,12 @@ Needs to be stored in homedirectory, with name convention ".zshrc" for use.
 
 <a href="https://jonasjacek.github.io/colors/" target="_blank" rel="noopener noreferrer">XTERM Colors</a>
 
+### Standard setup zshrc
+```cd /tmp```<br>
+```git clone https://github.com/pheiduck/zshlab.git```<br>
+```cat zshrc``` > Copy Content<br>
+```vim ~/.zshrc``` > Past Content <br>
+
 ## OhMyZsh Support
 
 ### setup zshlab.zsh-theme
