@@ -11,6 +11,7 @@ Needs to be stored in homedirectory, with name convention ".zshrc" for use.
 ### Default setup zshrc
 ```cd /tmp```<br>
 ```git clone https://github.com/pheiduck/zshlab.git```<br>
+```cd zshlab```<br>
 ```cat zshrc``` > Copy Content<br>
 ```vim ~/.zshrc``` > Past Content <br>
 
