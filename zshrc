@@ -10,4 +10,4 @@ if [[ $EUID -ne 0 ]]; then
 else
    export PS1="%9F%n@%m%f:%11F%1~%f # "
 fi
-RPROMPT='[%*]'
+RPROMPT='$(battery_pct_prompt) [%*]'
