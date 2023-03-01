@@ -6,7 +6,7 @@ Feel free to add your suggestions ;)
 
 Needs to be stored in homedirectory, with name convention ".zshrc" for use.
 
-<a href="https://jonasjacek.github.io/colors/" target="_blank" rel="noopener noreferrer">XTERM Colors</a>
+<a href="https://www.ditig.com/256-colors-cheat-sheet" target="_blank" rel="noopener noreferrer">XTERM Colors</a>
 
 ### Default setup zshrc
 ```cd /tmp```<br>
